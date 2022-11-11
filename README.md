@@ -15,7 +15,7 @@ Install following packages to run the AirBnB clone app-
 2)  npm install react-icons --save
 3)  npm install @mui/icons-material
 4)  npm i --force react-swipeable-views —save
-5)  npm i —-force react-swipeable-views-utils —save
+5)  npm i --force react-swipeable-views-utils —save
 
 Atlast,
 
