@@ -1,3 +1,24 @@
 # AirBnB-clone
 
-A web-application which is clone of Airbnb's home page.# AirBnB-clone
+A web-application which is clone of Airbnb's home page.
+
+
+## Steps to run AirBnB clone app on your local PC:
+   
+   Open the project on your Code editor.
+    
+### On the Terminal ->
+
+Install following packages to run the AirBnB clone app- 
+
+1)  npm install @mui/material @emotion/react @emotion/styled
+2)  npm install react-icons --save
+3)  npm install @mui/icons-material
+4)  npm install react-swipeable-views —save
+5)  npm i —force react-swipeable-views-utils —save
+
+Atlast,
+
+6)    npm start
+
+Then the service will be locally hosted on a browswe in your computer.
